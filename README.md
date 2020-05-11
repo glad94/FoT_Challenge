@@ -8,3 +8,4 @@ A quick walkthrough of the Last-Row data processing code and pitch control compu
 Extremely messy actual notebook that I used for producing outputs that may contain occasional insults to Liverpool here and there due to coding
 frustration: **explore_poo.ipynb**
 
+Repository was originally cloned from https://github.com/Friends-of-Tracking-Data-FoTD/Last-Row with additions from https://github.com/Friends-of-Tracking-Data-FoTD/SoccermaticsForPython and https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking.
